@@ -12,7 +12,7 @@
 ## Egg Dosa
 * Dosa Batter
 * Oil
-* 1 Egg
+* 1/2 Egg
 
 
 
